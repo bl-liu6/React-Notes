@@ -1,3 +1,3 @@
 # React-Notes
-ReactJS Learning
+## ReactJS Learning
 This is my notes taken while learning React
