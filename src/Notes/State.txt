@@ -1,0 +1,21 @@
+props vs. state
+props:
+- get passed to the component
+- function parameters
+- immutable
+- props -> function components
+  this.props -> class components
+
+state:
+- state is managed within the component
+- variables declared in the function body
+- can be changed
+- useState Hook -> functional components
+  this.state -> class components
+
+**setState()**
+- always make use of setState and never modify the state directly
+- code has to be executed after the state has been updated ? place that code in the callback function
+  which is the second argument to the setState method
+- when you have to update state based on the previous state value, pass in a function as an argument
+  instead of the regular object
