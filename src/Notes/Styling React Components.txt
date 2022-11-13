@@ -1,0 +1,4 @@
+1. CSS stylesheets <Stylesheet.js> <myStyles.css>
+2. Inline styling <Inline.js>
+3. CSS Modules <appStyles.css, appStyles.module.css> 
+4. CSS in JS Libaries (Styled Components)
