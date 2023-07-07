@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { Component, Fragment } from 'react';
-import Greet from './components/Greet'
+// import Greet from './components/Greet'
 import Welcome from './components/Welcome';
 import Hello from './components/Hello';
 import Message from './components/Message';
